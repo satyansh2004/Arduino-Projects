@@ -32,8 +32,7 @@ When an object enters the configured detection range:
 4. The system continues monitoring until the object leaves the detection zone.
 
 ## Demo Video
-
-[Watch Demo](./assets/demo.mp4)
+[Watch Video](./assets/demo.mp4)
 
 ## Live Demo
 
