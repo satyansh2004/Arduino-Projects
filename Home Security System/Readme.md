@@ -39,8 +39,6 @@ When an object enters the configured detection range:
 
 Test the project here: https://wokwi.com/projects/466817892221573121
 
-**[Add Wokwi / Live Simulation Link Here]**
-
 ## Installation
 
 1. Clone this repository.
