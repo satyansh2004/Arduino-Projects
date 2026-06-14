@@ -44,6 +44,9 @@ Test the project here: https://wokwi.com/projects/466828812572581889
 4. Upload the code to the Arduino board.
 5. Power the system and begin distance monitoring.
 
+## Circuit Diagram
+![alt text](./assets/image.png)
+
 ## Project Structure
 
 ```text
