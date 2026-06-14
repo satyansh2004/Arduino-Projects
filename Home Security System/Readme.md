@@ -32,14 +32,11 @@ When an object enters the configured detection range:
 4. The system continues monitoring until the object leaves the detection zone.
 
 ## Demo Video
-
-Video will be uploaded here
+D:\Arduino Projects\demo.mp4
 
 ## Live Demo
 
 Test the project here: https://wokwi.com/projects/466817892221573121
-
-**[Add Wokwi / Live Simulation Link Here]**
 
 ## Installation
 
