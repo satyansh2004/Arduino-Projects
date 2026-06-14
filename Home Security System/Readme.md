@@ -50,7 +50,7 @@ Test the project here: https://wokwi.com/projects/466817892221573121
 
 ```text
 Home-Security-System/
-├── HomeSecuritySystem.ino
+├── security.ino
 ├── README.md
 └── assets/
 ```
@@ -63,7 +63,3 @@ Home-Security-System/
 * Motion logging
 * Camera integration
 * Remote arming/disarming
-
-## License
-
-This project is open-source and available under the MIT License.
