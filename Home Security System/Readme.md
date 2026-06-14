@@ -33,7 +33,7 @@ When an object enters the configured detection range:
 
 ## Demo Video
 
-Video will be uploaded here
+[Watch Demo](./assets/demo.mp4)
 
 ## Live Demo
 
